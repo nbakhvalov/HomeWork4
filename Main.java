@@ -1,5 +1,11 @@
 package ru.geekbrains.homework;
-
+/*
+*
+* author: Nikolay Bakhvalov
+* date: 2020-03-03
+*
+*
+ */
 import java.util.Random;
 import java.util.Scanner;
 
